@@ -1,5 +1,7 @@
 package javaprimenumbers;
 
+import java.util.Scanner;
+
 public class PrimeNumbers {
 
 	public static void main(String[] args) {
