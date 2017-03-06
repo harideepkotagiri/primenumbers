@@ -15,6 +15,8 @@ public class PrimeNumbers {
 		}
 		if(n%2!=0){
 			System.out.println("number is not a odd");
+			System.out.println(" odd");
+			
 
 	}
 
